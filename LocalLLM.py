@@ -1,13 +1,13 @@
 from langchain.llms import HuggingFacePipeline
-from langchain.prompts import PromptTemplate
-import streamlit as st
+from langchain.prompts import PromptTemplat
+eimport streamlit as st
 import random
 import os
 from langchain.llms import GooglePalm
 from langchain.chains import LLMChain
 
 APIKEY = '<Your API KEY>'
-os.environ['TRANSFORMERS_CACHE'] = '<Location where you want to store the LLM Models>'
+os.environ['TRANSFORMERS_CACHE'] = r'<Location where you want to store the LLM Models>'
 
 st.title("Home LLM")
 # You can add your questions here!

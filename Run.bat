@@ -1,0 +1,1 @@
+streamlit run LocalLLM.py --server.sslKeyFile "Path\\To\\server.key" --server.sslCertFile "Path\\To\\server.crt" --server.port 5000
