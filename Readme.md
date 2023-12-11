@@ -1,5 +1,5 @@
 # Self-Hosted_LLM
-Start hosting your own Large Language model server for free
+Start hosting your own Large Language model like ChatGPT or bard server for free
 
 ## Getting Stated
 
